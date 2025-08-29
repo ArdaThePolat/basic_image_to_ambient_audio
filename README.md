@@ -19,9 +19,11 @@ This technology can be applied in various creative and practical ways:
 *   **Content Creation**: Quickly generate background audio for videos, podcasts, or presentations based on a theme or image.
 *   **Prototyping**: A valuable tool for quickly prototyping sound design for films, games, and interactive installations.
 
-<div align="center">
+## Examples
 
-<h2>Examples</h2>
+*(Tip: GitHub mutes videos by default — don’t forget to turn the sound on in the player to hear the generated ambience.)*
+
+<div align="center">
 
 <h3>Beach Scene</h3>
 <video
